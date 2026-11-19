@@ -1,3 +1,4 @@
+workspace = { members = ["inv_pyramid"] }
 [package]
 name = "artial_sums"
 version = "0.1.0"
